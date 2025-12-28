@@ -1,0 +1,6 @@
+Stock Investment Summary
+------------------------
+AAPL: 2 shares × 180 = 360
+TSLA: 1 shares × 250 = 250
+
+Total Investment Value: 610
